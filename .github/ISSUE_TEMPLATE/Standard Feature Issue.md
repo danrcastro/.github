@@ -1,5 +1,5 @@
 ## Story
-**As a user of <STDcheck, Healthlabs, UTITreatment and/or Manage>**, I need <some functionality expressed as the user of the app would express the need at a high level>.
+**As a <Agent, Admin, or Patient> of <STDcheck, Healthlabs, UTITreatment and/or Manage>**, I need <some functionality expressed as the user of the app would express the need at a high level>.
 
 **I need <a deeper description of the need if necessary (most of the time it will be)>.
 
@@ -45,6 +45,9 @@
 - [ ] Acceptance criteria met
 - [ ] Deployed and verified in Production
 - [ ] Ready for PO Approval
+
+## Subject Domain Experts
+<include a list of subject domain experts for this domain. If the subject expert from the end-user perspective is not the author, an end-user expert should be listed here. The Design, Dev, and QA teams should add experts here as appropriate.>
 
 ## Proposed Solution  
 
