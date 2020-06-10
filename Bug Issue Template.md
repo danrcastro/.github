@@ -12,7 +12,7 @@
 
 < Description of what one would expect to see/have happen if the system was operating properly. Screenshots or videos can help. >
 
-## Expected Behavior
+## Actual Behavior
 
 < Description of what one was seen/happened with the system operating at this moment. Screen shots or videos can help. >
 
