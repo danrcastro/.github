@@ -39,7 +39,7 @@
 
 - [ ] Issue accepted by PO
 - [ ] Issue is scored
-- [ ] COrrect behavior implemented
+- [ ] Correct behavior implemented
 - [ ] Peer Reviews complete	
 - [ ] Unit and regression tests are Passed
 - [ ] Manual Testing Complete and issues resolved
