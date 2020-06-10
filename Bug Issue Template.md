@@ -3,7 +3,7 @@
 
 ## Steps to Recreate  
 
-< a numbered list of the steps taken in the system to observe the results of the bug. screen shots or videos can help >
+< a numbered list of the exact steps taken in the system that led to the observation the results of the bug. screen shots or videos can help >
 
 1.
 2.
