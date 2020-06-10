@@ -32,7 +32,6 @@
 - [ ] Acceptance Criteria Defined
 - [ ] The person who will Approve story identified
 - [ ] Dependencies Identified
-- [ ] Issue size estimated by Dev Team
 - [ ] Proposed solution accepted
 
 ## Definition of Done
