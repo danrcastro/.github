@@ -3,7 +3,7 @@
 
 ## Steps to Recreate  
 
-< a numbered list of the exact steps taken in the system that led to the observation the results of the bug. screen shots or videos can help >
+< a numbered list of the **exact** steps taken in the system that led to the observation of the bug. screen shots or videos can help >
 
 1.
 2.
@@ -28,8 +28,10 @@
 ## Definition of Ready
 
 - [ ] The Issue maintains standard format for Issues and meets INVEST
-- [ ] Issue Defined and written appropriately
-- [ ] Acceptance Criteria Defined
+- [ ] Story Defined and written appropriately
+- [ ] Steps to Recreate supplied and sufficiently detailed
+- [ ] Expected and Actual Behavior supplied
+- [ ] Business Value supplied
 - [ ] The person who will Approve story identified
 - [ ] Dependencies Identified
 - [ ] Proposed solution accepted
@@ -38,7 +40,6 @@
 
 - [ ] Issue accepted by PO
 - [ ] Issue is scored
-- [ ] Correct behavior implemented
 - [ ] Peer Reviews complete	
 - [ ] Unit and regression tests are Passed
 - [ ] Manual Testing Complete and issues resolved
