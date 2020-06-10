@@ -20,12 +20,6 @@
 
 < What is the gain from the fix or the cost in not fixing it (customer dissatisfaction, loss of time, money, etc. >
 
-## Acceptance Criteria
-< a numbered list of behaviors that must be present in order to satisfy the required functionality described above. >
-
-1. 
-2. 
-
 ## Notes
 < bulleted list of special notes or suggestions to the development team on the implementation of the changes. >
 
