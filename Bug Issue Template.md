@@ -10,7 +10,7 @@
 
 ## Expected Behavior  
 
-< Description of what one would expect to see/have happen if the system was operating properly. Screen shots or videos can help. >
+< Description of what one would expect to see/have happen if the system was operating properly. Screenshots or videos can help. >
 
 ## Expected Behavior
 
