@@ -14,7 +14,7 @@
 
 ## Actual Behavior
 
-< Description of what one was seen/happened with the system operating at this moment. Screen shots or videos can help. >
+< Description of what one saw/had happened with the system operating at this moment. Screenshots or videos can help. >
 
 ## Business Value
 
