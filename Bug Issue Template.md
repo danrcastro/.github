@@ -21,7 +21,7 @@
 < What is the gain from the fix or the cost in not fixing it (customer dissatisfaction, loss of time, money, etc. >
 
 ## Notes
-< bulleted list of special notes or suggestions to the development team on the implementation of the changes. >
+< bulleted list of special notes or suggestions to the development team on any information pertinent to the bug. >
 
 *  
 
