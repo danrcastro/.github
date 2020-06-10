@@ -44,7 +44,7 @@
 - [ ] Manual Testing Complete and issues resolved
 - [ ] Automated tests created and run successfully
 - [ ] All blockers addressed
-- [ ] Acceptance criteria met
+- [ ] System is behaving in accordance with "Expected Behavior"
 - [ ] Deployed and verified in Production
 - [ ] Ready for PO Approval
 
