@@ -3,7 +3,7 @@
 
 ## Steps to Recreate  
 
-< a numbered list of the **exact** steps taken in the system that led to the observation of the bug. screen shots or videos can help >
+< a numbered list of the **exact** steps taken in the system that led to the Actual Behavior. What we want here is not how to see the bad result but rather how to **create** the bad result. screen shots or videos can help >
 
 1.
 2.
@@ -34,10 +34,10 @@
 - [ ] Business Value supplied
 - [ ] The person who will Approve story identified
 - [ ] Dependencies Identified
-- [ ] Proposed solution accepted
 
 ## Definition of Done
 
+- [ ] Proposed solution accepted (optional and used if the solution changes anything other than the Actual Behavior to Expected)
 - [ ] Issue accepted by PO
 - [ ] Issue is scored
 - [ ] Peer Reviews complete	
