@@ -1,9 +1,10 @@
 ## Story
-**As a <Agent, Admin, or Patient> of <STDcheck, Healthlabs, UTITreatment and/or Manage>**, I need <some functionality expressed as the user of the app would express the need at a high level>.
 
-**I need <a deeper description of the need if necessary (most of the time it will be)>.
+**As a < Agent, Admin, or Patient> of <STDcheck, Healthlabs, UTITreatment and/or Manage > **, I need < some functionality expressed as the user of the app would express the need at a high level >.
 
-**so that <why do you need this (short description of the business value>.
+**I need < a deeper description of the need if necessary (most of the time it will be) >
+
+**so that < why do you need this (short description of the business value >.
 
 ## Business Value  
 
@@ -11,21 +12,16 @@
 
 ## Acceptance Criteria
 < a numbered list of behaviors that must be present in order to satisfy the required functionality described above. >
-
-1. 
-2. 
  
 ## Notes
-< bulleted list of special notes or suggestions to the development team on the implementation of the changes. >
-
-*  
-
+< bulleted list of special notes or suggestions to the development team on the implementation of the changes. >  
 
 ## Definition of Ready
 
 - [ ] The Issue maintains standard format for Issues and meets INVEST
 - [ ] Issue Defined and written appropriately
 - [ ] Acceptance Criteria Defined
+- [ ] User acceptance test cases defined
 - [ ] The person who will Approve story identified
 - [ ] Dependencies Identified
 - [ ] Issue size estimated by Dev Team
@@ -47,7 +43,7 @@
 - [ ] Ready for PO Approval
 
 ## Subject Domain Experts
-<include a list of subject domain experts for this domain. If the subject expert from the end-user perspective is not the author, an end-user expert should be listed here. The Design, Dev, and QA teams should add experts here as appropriate.>
+< include a list of subject domain experts for this domain. If the subject expert from the end-user perspective is not the author, an end-user expert should be listed here. The Design, Dev, and QA teams should add experts here as appropriate. >
 
 ## Proposed Solution  
 
