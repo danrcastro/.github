@@ -1,12 +1,10 @@
 ## Story
-**As a <Agent, Admin, or Patient> of <STDcheck, Healthlabs, UTITreatment and/or Manage>**, I need < an expression of the correct behavior needed from the system >.
+
+**As a < Agent, Admin, or Patient> of <STDcheck, Healthlabs, UTITreatment and/or Manage >**, I need < an expression of the correct behavior needed from the system >.
 
 ## Steps to Recreate  
 
-< a numbered list of the **exact** steps taken in the system that led to the Actual Behavior. What we want here is not how to see the bad result but rather how to **create** the bad result. screen shots or videos can help >
-
-1.
-2.
+< A numbered list of the **exact** steps taken in the system that led to the Actual Behavior. What we want here is not how to see the bad result but rather how to **create** the bad result. Screen shots or videos can help. If there are necessary pre-conditions to running the recreation steps, these should be detailed separately. >
 
 ## Expected Behavior  
 
@@ -21,9 +19,7 @@
 < What is the gain from the fix or the cost in not fixing it (customer dissatisfaction, loss of time, money, etc. >
 
 ## Notes
-< bulleted list of special notes or suggestions to the development team on any information pertinent to the bug. >
-
-*  
+< bulleted list of special notes or suggestions to the development team on any information pertinent to the bug. > 
 
 ## Definition of Ready
 
@@ -34,6 +30,8 @@
 - [ ] Business Value supplied
 - [ ] The person who will Approve story identified
 - [ ] Dependencies Identified
+- [ ] User acceptance test cases are created/modifed
+- [ ] Bug Issue linked to Feature Issue and/or Epic containing the functionality (optional if Epic/Feature exist)
 
 ## Definition of Done
 
