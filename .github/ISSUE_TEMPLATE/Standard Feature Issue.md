@@ -1,10 +1,10 @@
 ## Story
 
-**As a < Agent, Admin, or Patient> of <STDcheck, Healthlabs, UTITreatment and/or Manage > **, I need < some functionality expressed as the user of the app would express the need at a high level >.
+**As a < Agent, Admin, or Patient> of <STDcheck, Healthlabs, UTITreatment and/or Manage >**, I need < some functionality expressed as the user of the app would express the need at a high level >.
 
-**I need < a deeper description of the need if necessary (most of the time it will be) >
+I need < a deeper description of the need if necessary (most of the time it will be) >
 
-**so that < why do you need this (short description of the business value >.
+so that < why do you need this (short description of the business value >.
 
 ## Business Value  
 
