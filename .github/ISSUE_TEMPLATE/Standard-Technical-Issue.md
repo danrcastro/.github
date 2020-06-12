@@ -17,3 +17,7 @@
 ## Side Effects
 
 < List any and all effects that the proposed change would have outside of how it addresses the negative impact. These could be good or bad side effects. >
+
+## QA Needs
+
+< Indicate whether this item needs QA testing. For those that do, indicate any special setup or tool set the QA team might need. >
