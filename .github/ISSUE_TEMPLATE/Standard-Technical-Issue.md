@@ -12,7 +12,7 @@
 
 ## How will the proposed solution address the negative impact(s)?
 
-<Summary of how this proposed solution will address the negative impact of this problem.>
+< Summary of how this proposed solution will address the negative impact of this problem. >
 
 ## Side Effects
 
