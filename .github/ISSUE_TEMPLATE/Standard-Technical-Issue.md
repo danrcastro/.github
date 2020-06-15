@@ -4,7 +4,7 @@
 
 ## Negative Impact:
 
-< what problems does, will, or can the problem described cause for Dev, QA, or DevOps. >
+< How the described problem does, will, or can affect Dev, QA, or DevOps. >
 
 ## Proposed Solution:
 
