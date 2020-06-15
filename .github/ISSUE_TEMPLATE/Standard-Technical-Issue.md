@@ -8,7 +8,7 @@
 
 ## Proposed Solution:
 
-< Describe the propsed solution for the problem. >
+< Describe the proposed solution for the problem. >
 
 ## How will the proposed solution address the negative impact(s)?
 
