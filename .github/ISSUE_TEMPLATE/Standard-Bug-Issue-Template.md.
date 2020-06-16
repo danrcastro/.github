@@ -1,3 +1,10 @@
+---
+name:  Bug Issue
+about: Use this template for all bugs
+title: "BUG: "
+labels: bug
+---
+
 ## Story
 
 **As a < Agent, Admin, or Patient> of <STDcheck, Healthlabs, UTITreatment and/or Manage >**, I need < an expression of the correct behavior needed from the system >.
