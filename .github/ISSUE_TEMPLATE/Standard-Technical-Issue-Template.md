@@ -1,3 +1,9 @@
+---
+name:  Technical Issue
+about: Use this template for all Technicals
+labels: Technical
+---
+
 ## Description
 
 < Description of the problem. >

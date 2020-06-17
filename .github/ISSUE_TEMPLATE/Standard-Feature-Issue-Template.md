@@ -1,3 +1,9 @@
+---
+name:  Feature Issue
+about: Use this template for all features
+labels: Feature
+---
+
 ## Story
 
 **As a < Agent, Admin, or Patient> of <STDcheck, Healthlabs, UTITreatment and/or Manage >**, I need < some functionality expressed as the user of the app would express the need at a high level >.
