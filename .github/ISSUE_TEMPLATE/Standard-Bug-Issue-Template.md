@@ -54,7 +54,7 @@ labels: Bug
 - [ ] Ready for PO Approval
 
 ## Subject Domain Experts
-<include a list of subject domain experts for this domain. If the subject expert from the end-user perspective is not the author, an end-user expert should be listed here. The Design, Dev, and QA teams should add experts here as appropriate.>
+< include a list of subject domain experts for this domain. If the subject expert from the end-user perspective is not the author, an end-user expert should be listed here. The Design, Dev, and QA teams should add experts here as appropriate. >
 
 ## Proposed Solution  
 
