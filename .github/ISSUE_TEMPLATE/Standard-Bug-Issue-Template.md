@@ -57,6 +57,7 @@ or
 
 ### Ready for Deploy and Test
 - [ ] PreProduction QA Test Passed
+- [ ] New production environmental variables added (if applicable)
  
 ### Ready for Production QA
 - [ ] Software deployed in production with no errors
