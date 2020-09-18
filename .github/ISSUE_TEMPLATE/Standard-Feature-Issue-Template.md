@@ -5,14 +5,10 @@ labels: Feature
 ---
 
 # Story
-**As a < Agent, Admin, or Patient> of <STDcheck, Healthlabs, UTITreatment and/or Manage >**, I need < some functionality expressed as the user of the app would express the need at a high level >.
-
-I need < a deeper description of the need if necessary (most of the time it will be) >
-
-so that < why do you need this (short description of the business value >.
+**As a < Agent, Admin, or Patient> of <STDcheck, Healthlabs, UTITreatment and/or Manage >**, I need < some functionality expressed as the user of the app would express the need > so that < why do you need this >.
 
 ## Business Value  
-< Complete description of the business value - why do we need to make this change - for the requested item. It is useful to have this even for bugs that we feel “must” be fixed because it helps prioritization. >
+< Complete description of the business value - why do we need to make this change - for the requested item. >
 
 ## Notes
 < list of special notes or suggestions to the development team on the implementation of the changes. >  
@@ -28,38 +24,20 @@ so that < why do you need this (short description of the business value >.
 
 # Progress
 ### Ready for Planning
-- [ ] The Issue maintains standard format for Issues and meets INVEST
 - [ ] Story and Business Value complete
 - [ ] Initial Acceptance Criteria Defined
 - [ ] The person who will Approve story identified
-
-### Ready for Ready to Work
-- [ ] Acceptance Criteria Refined
-- [ ] Issue size estimated by Dev Team
-- [ ] Dependencies Identified
+- [ ] Proposed Solution provided
 
 ### Ready for Review
-- [ ] Proposed solution defined and accepted by Approver
-- [ ] Code implemented and built
 - [ ] Testing implemented and passed
 
 ### Ready for Pre-Production QA
-- [ ] Peer Reviews complete with all changes tested
-- [ ] All features implemented
-- [ ] All features not yet implemented or inactive are hidden from the user
+- [ ] Issue scored
 - [ ] Special testing instructions noted
-- [ ] Acceptance Test cases created and reviewed by QA
-- [ ] Acceptance criteria met
-
-### Ready for Deploy and Test
-- [ ] PreProduction QA Test Passed
-- [ ] New production environmental variables added (if applicable)
- 
-### Ready for Production QA
-- [ ] Software deployed in production with no errors
+- [ ] Acceptance criteria met - boxes checked
 
 ### Ready for SM Approval
-- [ ] Production QA Test Passed
 - [ ] Manual Acceptance Test Results included in Comment
 
 ### Ready for PO Approval

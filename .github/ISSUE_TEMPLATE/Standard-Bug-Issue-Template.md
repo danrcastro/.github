@@ -36,34 +36,21 @@ or
 < Narrative describing how the solution will be implemented including screen shots, data samples, API specification, architectural changes, etc. as appropriate for the type and scope of Issue. This solution must be reviewed with the requester before beginning implementation. > 
 
 # Progress
-### Ready for Ready to Work
-- [ ] The Issue maintains standard format for Issues and meets INVEST
+### Ready for Planning
 - [ ] Story and Business Value complete
-- [ ] Steps to Recreate, Expected Behavior, and Actual Behavior complete
+- [ ] Initial Acceptance Criteria Defined
 - [ ] The person who will Approve story identified
-- [ ] Dependencies Identified
+- [ ] Proposed Solution provided
 
 ### Ready for Review
-- [ ] Proposed solution defined and accepted by Approver
-- [ ] Code implemented and built
 - [ ] Testing implemented and passed
 
 ### Ready for Pre-Production QA
-- [ ] Peer Reviews complete with all changes tested
-- [ ] Special testing instructions noted
-- [ ] Acceptance Test cases created and reviewed by QA
-- [ ] System is behaving in accordance with "Expected Behavior"
 - [ ] Issue scored
-
-### Ready for Deploy and Test
-- [ ] PreProduction QA Test Passed
-- [ ] New production environmental variables added (if applicable)
- 
-### Ready for Production QA
-- [ ] Software deployed in production with no errors
+- [ ] Special testing instructions noted
+- [ ] Acceptance criteria met - boxes checked
 
 ### Ready for SM Approval
-- [ ] Production QA Test Passed
 - [ ] Manual Acceptance Test Results included in Comment
 
 ### Ready for PO Approval
