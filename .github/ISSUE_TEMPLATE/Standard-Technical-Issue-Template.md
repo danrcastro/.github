@@ -25,6 +25,11 @@ labels: Technical
 # Acceptance Criteria
 < list of behaviors that must be present in order to satisfy the required functionality described above. >
 
+# Announcement Message
+releasenotes: < if the Issue is something visible to the end user, then put the text for the releasenotes slack channel here. Otherwise indicate "N/A" >
+
+devchat: < If HL Engineering requires notification instead of the end user or if there is different information, then put the text here. Otherwise indicate "N/A" >
+
 # Progress
 ### Ready for Planning
 - [ ] Story and Business Value complete
@@ -39,6 +44,7 @@ labels: Technical
 - [ ] Issue scored
 - [ ] Special testing instructions noted
 - [ ] Acceptance criteria met - boxes checked
+- [ ] Announcement message created
 
 ### Ready for SM Approval
 - [ ] Manual Acceptance Test Results included in Comment
@@ -46,3 +52,4 @@ labels: Technical
 ### Ready for PO Approval
 - [ ] Issue complete and correct in all required sections
 - [ ] All checkboxes checked
+- [ ] Announcement message approved
