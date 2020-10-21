@@ -37,28 +37,35 @@ devchat: < If Hl Engineering requires notification instead of the end user or if
 # Proposed Solution  
 < Narrative describing how the solution will be implemented including screen shots, data samples, API specification, architectural changes, etc. as appropriate for the type and scope of Issue. This solution must be reviewed with the requester before beginning implementation. Include any special instructions to QA for testing. > 
 
-## Subject Domain Experts
-< list of subject domain experts for this domain. If the subject expert from the end-user perspective is not the author, an end-user expert should be listed here. The Design, Dev, and QA teams should add experts here as appropriate. >
+## Subject Matter Experts
+< list of subject matter experts for this domain. If the SME from the end-user perspective is not the author, an end-user expert should be listed here. The Design, Dev, and QA teams should add experts here as appropriate. >
 
 ## Progress
-### Ready for Planning
-- [ ] Story and Business Value complete
-- [ ] Initial Acceptance Criteria Defined
-- [ ] The person who will Approve story identified
-- [ ] Proposed Solution provided
+### Fully Created Issues - completed by author
+- [ ] Description completed
+- [ ] Acceptance Criteria Specified
+- [ ] Approver Identified
+- [ ] Labels attached
+- [ ] QA Needs provided
+- [ ] SME's provided
 
-### Ready for Review
-- [ ] Testing implemented and passed
+### SME Reviewed Issues - completed by SM & Team Leads
+- [ ] Description approved
+- [ ] Acceptance Criteria Finalized
+- [ ] Approver correct
+- [ ] Appropriate labels attached
+- [ ] QA Needs reviewed
+- [ ] SME list complete
 
-### Ready for Pre-Production QA
+### Implemented Issue - completed by Developer assigned
 - [ ] Issue scored
 - [ ] Acceptance criteria met - boxes checked
 - [ ] Announcement message created
 
-### Ready for SM Approval
+### Tested Issue - Completed by QA assigned
 - [ ] Manual Acceptance Test Results included in Comment
 
-### Ready for PO Approval
+### Deploy-able Issue - completed by SM
 - [ ] Announcement message approved
 - [ ] Issue complete and correct in all required sections
-- [ ] All checkboxes checked
+- [ ] Acceptance Criteria met

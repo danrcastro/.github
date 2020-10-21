@@ -28,28 +28,26 @@ labels: dependencies
 
 ## Announcement Message
 releasenotes: Changes have been made that affect < some portion of the system >. Please let us know if you have any difficulties < doing whatever they do with that part of the system  >
+
 devchat: < Dependency name > has been updated to <dependency target version> See <link to new features or this Issue > for available features and fixes
 
 ## Progress
-### Ready for Planning
-- [ ] Story and Business Value complete
-- [ ] Initial Acceptance Criteria Defined
-- [ ] The person who will Approve story identified
-- [ ] Proposed Solution provided
+### DM Reviewed Issues - completed by Dependency Maintainer
+- [ ] Description completed
+- [ ] Acceptance Criteria Specified
+- [ ] Approver Identified
+- [ ] Labels attached
+- [ ] QA Needs provided
 
-### Ready for Review
-- [ ] Testing implemented and passed
-
-### Ready for Pre-Production QA
+### Implemented Issue - completed by Developer assigned
 - [ ] Issue scored
-- [ ] Special testing instructions noted
 - [ ] Acceptance criteria met - boxes checked
 - [ ] Announcement message created
 
-### Ready for SM Approval
-- [ ] Acceptance Test Results included in Comment
+### Tested Issue - Completed by QA assigned
+- [ ] Manual Acceptance Test Results included in Comment
 
-### Ready for PO Approval
+### Deploy-able Issue - completed by SM
 - [ ] Announcement message approved
 - [ ] Issue complete and correct in all required sections
-- [ ] All checkboxes checked
+- [ ] Acceptance Criteria met
