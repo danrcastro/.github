@@ -1,14 +1,11 @@
-**Method:**
+For: #something
 
-**Expected Behavior:**
-
-**Actual Result:**
+BUG FIX:
 
 **Cause:**
 
 **Solution:**
 
-**Customer Impact (for #releasenotes):**
+FEATURE IMPLEMENTATION:
 
-**QA Notes (How to set up system for manual testing)**
-
+Whatever you want (screenshots, etc)
