@@ -1,42 +1,40 @@
 ---
 name:  Technical Issue
-about: Use this template for all Technicals
-labels: Technical
+about: Resolves a technical deficiency with the system, or improves the system for engineering in some way
 ---
 
 # Story
 
-## Description
-< Description of the problem. >
+## Short Summary
+`Short summary of the technical debt that makes this issue necessary`
 
-## Negative Impact:
-< Who is affected and how does the described problem affect Dev, QA, or DevOps. >
-
-## Business Value
-< What is the gain from the fix or the cost in not fixing it (customer dissatisfaction, loss of time, money, etc. >
-
-## Notes
-< special notes or suggestions to the development team on any information pertinent to the problem >
+E.g. We have a series of events that are no longer in use
 
 ## Acceptance Criteria
-- [ ] list of behaviors that must be present in order to satisfy the required functionality described above.
+`A list of stasks required to consider this issue complete`
 
-## Announcement Message
-releasenotes: < if the Issue is something visible to the end user, then put the text for the releasenotes slack channel here. Otherwise indicate "N/A" >
+- [ ] Task 1
+- [ ] etc
 
-devchat: < If HL Engineering requires notification instead of the end user or if there is different information, then put the text here. Otherwise indicate "N/A" >
+## Rationale: Pros vs Cons
+`What is the rationale for the change? What are the pros and cons of the acceptance criteria`
 
-# Proposed Solution:
-< Describe the proposed solution for the problem. >
+### Pros
+* Pro 1
+* etc
 
-## How will the proposed solution address the negative impact(s)?
-< Summary of how this proposed solution will address the negative impact of this problem. >
-
-## Side Effects
-< List any and all effects that the proposed change would have outside of how it addresses the negative impact. These could be good or bad side effects. >
-
-## QA Needs
-< Indicate whether this item needs QA testing. For those that do, indicate any special setup or tool set the QA team might need. >
+### Cons
+* Con 1
+* etc
 
 ## Subject Matter Experts
-< list of subject matter experts for this domain. If the SME from the end-user perspective is not the author, an end-user expert should be listed here. The Design, Dev, and QA teams should add experts here as appropriate. >
+`List of developers that would be considered to have in-depth info in or around the issue`
+
+## Notes
+`A list of resources or caveats that would be applicable to the issue`
+
+## Exploratory Testing
+`How is the end-user exprience affected by this (if at all)? Any special setup or tools required?`
+
+## Announcement Message
+`A message describing what was changed, why the change was made followed by tagging the author that created the issue`
