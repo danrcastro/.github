@@ -1,0 +1,69 @@
+name: Technical Issue
+description: Resolves a technical deficiency with the system, or improves the system, for engineering in some way
+title: "[< Related Project >] < A short descriptor of the tech debt>"
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Story
+  - type: textarea
+    id: summary
+    attributes:
+      label: Short summary
+      description: Short summary of the technical debt that makes this issue necessary
+      placeholder: E.g. We have a series of events that are no longer in use
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: Acceptance Criteria
+      description: List of tasks required to consider this issue complete
+      placeholder: |
+        - [ ] The SendNotification event, and any underlying code, is removed
+      value: |
+        - [ ]
+    validations:
+      required: true
+  - type: textarea
+    id: pros-cons
+    attributes:
+      label: Pros vs Cons
+      description: What are the pros and cons of the acceptance criteria?
+      value: |
+        ### Pros
+         - [ ] < List of benefits the completion of this issue would bring >
+
+        ### Cons
+         - [ ] < List of negatives the completion of this issue would bring if any>
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale for changes
+      description: Why do the pros outway the cons?
+    validations:
+      required: true
+  - type: textarea
+    id: sme
+    attributes:
+      label: Subject Matter Experts
+      description: List of developers that would be considered to have in-depth information in or around the technical debt
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: A list of resources or caveats that would be applicable to the issue
+    validations:
+      required: false
+  - type: textarea
+    id: announcement
+    attributes:
+      label: Announcement Message
+      description: The message describing what was changed, why the change was done followed by tagging the developer that created the issue
+    validations:
+      required: true
