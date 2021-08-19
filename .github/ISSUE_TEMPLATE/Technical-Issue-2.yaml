@@ -1,4 +1,4 @@
-name: Technical Issue
+name: Technical Issue 2
 description: Resolves a technical deficiency with the system, or improves the system, for engineering in some way
 title: "[< Related Project >] < A short descriptor of the tech debt>"
 labels: []
