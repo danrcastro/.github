@@ -29,21 +29,14 @@ body:
   - type: textarea
     id: pros-cons
     attributes:
-      label: Pros vs Cons
-      description: What are the pros and cons of the acceptance criteria?
+      label: Rationale: Pros vs Cons
+      description: What is the rationale for the change? What are the pros and cons of the acceptance criteria
       value: |
         ### Pros
          - [ ] < List of benefits the completion of this issue would bring >
 
         ### Cons
          - [ ] < List of negatives the completion of this issue would bring if any>
-    validations:
-      required: true
-  - type: textarea
-    id: rationale
-    attributes:
-      label: Rationale for changes
-      description: Why do the pros outway the cons?
     validations:
       required: true
   - type: textarea
