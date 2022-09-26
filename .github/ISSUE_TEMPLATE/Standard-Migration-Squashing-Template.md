@@ -23,4 +23,5 @@ Update the date on the file name of `yyyy_mm_dd_000000_initial_database_schema.p
 - [ ] Production migrations table is updated to reflect this new, single flattened migration
 
 ## Announcement Message
-devchat: All migrations have been squashed, please rebase/merge to/from master to have a consistent project initialization.
+
+dev-important: All migrations have been squashed, please rebase/merge to/from master to have a consistent project initialization.

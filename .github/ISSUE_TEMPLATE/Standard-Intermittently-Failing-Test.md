@@ -17,3 +17,6 @@ Paste output from CI here
 
 ## Acceptance Criteria
 - [ ] The cause of the failing test has been determined and fixed
+
+## Announcement Message
+dev-important: < If engineering requires notification instead of (or in addition to) the end user or if there is different information, then put the text here. Otherwise, indicate "N/A" >

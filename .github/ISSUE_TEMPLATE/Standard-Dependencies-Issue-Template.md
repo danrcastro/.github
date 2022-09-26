@@ -27,6 +27,6 @@ labels: dependencies
 - [ ] Unit tests passing
 
 ## Announcement Message
-releasenotes: Changes have been made that affect < some portion of the system >. Please let us know if you have any difficulties < doing whatever they do with that part of the system  >
+releasenotes: < if the Issue is something that could affect the end user, then put the text for the releasenotes Slack channel here. Otherwise. indicate "N/A" >
 
-devchat: < Dependency name > has been updated to <dependency target version> See <link to new features or this Issue > for available features and fixes
+dev-important: < If engineering requires notification instead of (or in addition to) the end user or if there is different information, then put the text here. Otherwise, indicate "N/A" >

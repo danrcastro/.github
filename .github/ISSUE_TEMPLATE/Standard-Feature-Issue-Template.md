@@ -15,11 +15,11 @@ labels: Feature
 
 ## Acceptance Criteria
 < list of behaviors that must be present in order to satisfy the required functionality described above. >
- 
-## Announcement Message
-releasenotes: < if the Issue is something visible to the end user, then put the text for the releasenotes slack channel here. Otherwise indicate "N/A" >
 
-devchat: < If HL Engineering requires notification instead of the end user or if there is different information, then put the text here. Otherwise indicate "N/A" >
+## Announcement Message
+releasenotes: < if the Issue is something that could affect the end user, then put the text for the releasenotes Slack channel here. Otherwise. indicate "N/A" >
+
+dev-important: < If engineering requires notification instead of (or in addition to) the end user or if there is different information, then put the text here. Otherwise, indicate "N/A" >
 
 # Proposed Solution  
 < Narrative describing how the solution will be implemented including screen shots, data samples, API specification, architectural changes, etc. as appropriate for the type and scope of Issue. This solution must be reviewed with the requester before beginning implementation. Include any special instructions to QA for testing. > 
