@@ -1,4 +1,4 @@
-For: #something
+For #ISSUE_NUMBER
 
 BUG FIX:
 
