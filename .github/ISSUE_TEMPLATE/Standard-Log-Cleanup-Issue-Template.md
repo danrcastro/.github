@@ -1,6 +1,7 @@
 ---
 name:  Log Cleanup Issue
 about: Investigate and resolve the log errors.
+labels: Log Cleanup
 ---
 
 ## Short Summary
